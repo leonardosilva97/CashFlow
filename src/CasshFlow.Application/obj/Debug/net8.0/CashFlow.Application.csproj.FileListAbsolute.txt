@@ -12,8 +12,10 @@ C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CasshFlow.Application\obj\Deb
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CasshFlow.Application\obj\Debug\net8.0\CashFlow.Application.AssemblyInfoInputs.cache
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CasshFlow.Application\obj\Debug\net8.0\CashFlow.Application.AssemblyInfo.cs
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CasshFlow.Application\obj\Debug\net8.0\CashFlow.Application.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CasshFlow.Application\obj\Debug\net8.0\CashFlow.Application.sourcelink.json
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CasshFlow.Application\obj\Debug\net8.0\CashFlow.7372E909.Up2Date
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CasshFlow.Application\obj\Debug\net8.0\CashFlow.Application.dll
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CasshFlow.Application\obj\Debug\net8.0\refint\CashFlow.Application.dll
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CasshFlow.Application\obj\Debug\net8.0\CashFlow.Application.pdb
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CasshFlow.Application\obj\Debug\net8.0\ref\CashFlow.Application.dll
+C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CasshFlow.Application\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll

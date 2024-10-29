@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Leonardo\\Documents\\.Net_Core\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80046F57-9B40-471E-B82C-7084D7C44C6C}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\leonardo\\documents\\.net_core\\cashflow\\src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80046F57-9B40-471E-B82C-7084D7C44C6C}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9B6385B-2BAA-4DB6-992F-799501E8DFB8}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\users\\leonardo\\documents\\.net_core\\cashflow\\tests\\validators.tests\\expenses\\register\\rgisterexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B6385B-2BAA-4DB6-992F-799501E8DFB8}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\expenses\\register\\rgisterexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9741264-9B2F-4D8D-B8C6-0FE0BC3FCDFA}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|c:\\users\\leonardo\\documents\\.net_core\\cashflow\\src\\cashflow.communication\\requests\\requestregisterexpensejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9741264-9B2F-4D8D-B8C6-0FE0BC3FCDFA}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|solutionrelative:src\\cashflow.communication\\requests\\requestregisterexpensejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EE4A85F-53FB-4B06-BBBE-E8DCA7801CCC}|src\\CasshFlow.Application\\CashFlow.Application.csproj|c:\\users\\leonardo\\documents\\.net_core\\cashflow\\src\\casshflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE4A85F-53FB-4B06-BBBE-E8DCA7801CCC}|src\\CasshFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\casshflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE4A85F-53FB-4B06-BBBE-E8DCA7801CCC}|src\\CasshFlow.Application\\CashFlow.Application.csproj|c:\\users\\leonardo\\documents\\.net_core\\cashflow\\src\\casshflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE4A85F-53FB-4B06-BBBE-E8DCA7801CCC}|src\\CasshFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\casshflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RequestRegisterExpenseJson.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo\\Documents\\.Net_Core\\CashFlow\\src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "ToolTip": "C:\\Users\\Leonardo\\Documents\\.Net_Core\\CashFlow\\src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "RelativeToolTip": "src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Title": "RegisterExpenseUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Documents\\.Net_Core\\CashFlow\\src\\CasshFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CasshFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Documents\\.Net_Core\\CashFlow\\src\\CasshFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeToolTip": "src\\CasshFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T01:34:00.671Z"
+              "WhenOpened": "2024-10-16T21:22:50.924Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExpensesController.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo\\Documents\\.Net_Core\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "ToolTip": "C:\\Users\\Leonardo\\Documents\\.Net_Core\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "RelativeToolTip": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Title": "RgisterExpenseValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Documents\\.Net_Core\\CashFlow\\tests\\Validators.Tests\\Expenses\\Register\\RgisterExpenseValidatorTests.cs",
+              "RelativeDocumentMoniker": "tests\\Validators.Tests\\Expenses\\Register\\RgisterExpenseValidatorTests.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Documents\\.Net_Core\\CashFlow\\tests\\Validators.Tests\\Expenses\\Register\\RgisterExpenseValidatorTests.cs",
+              "RelativeToolTip": "tests\\Validators.Tests\\Expenses\\Register\\RgisterExpenseValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T01:32:20.474Z",
+              "WhenOpened": "2024-10-16T21:18:50.68Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterExpenseValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Documents\\.Net_Core\\CashFlow\\src\\CasshFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "RelativeDocumentMoniker": "src\\CasshFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Documents\\.Net_Core\\CashFlow\\src\\CasshFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "RelativeToolTip": "src\\CasshFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:02:32.064Z"
             }
           ]
         }

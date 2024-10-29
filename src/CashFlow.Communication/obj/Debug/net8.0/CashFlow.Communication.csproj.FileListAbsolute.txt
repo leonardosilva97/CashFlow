@@ -5,6 +5,7 @@ C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Communication\obj\De
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.AssemblyInfoInputs.cache
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.AssemblyInfo.cs
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.sourcelink.json
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.dll
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\refint\CashFlow.Communication.dll
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.pdb

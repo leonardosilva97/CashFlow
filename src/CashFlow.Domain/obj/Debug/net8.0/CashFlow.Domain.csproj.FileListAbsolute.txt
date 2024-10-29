@@ -5,6 +5,7 @@ C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Domain\obj\Debug\net
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfoInputs.cache
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfo.cs
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dll
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
 C:\Users\Leonardo\Documents\.Net_Core\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
